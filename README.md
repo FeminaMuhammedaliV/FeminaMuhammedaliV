@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Femina Muhammed Ali V</h1>
 <h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srinathankolla&label=Profile%20views&color=0e75b6&style=flat" alt="srinathankolla" /> </p>
+<p align="left"> <img src="C:\Users\Femin\OneDrive\Desktop\resume"/> </p>
 
 - I'm skilled in **Excel, Power BI & SQL **
 
