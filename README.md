@@ -1,3 +1,3 @@
 ## Hi there 👋
-![Untitled design (12)](C:\Users\Femin\Downloads\image.git.png)
+![Untitled design (12)](https://github.com/FeminaMuhammedaliV/image/blob/main/image.git.png)
 
