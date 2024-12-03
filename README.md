@@ -7,6 +7,8 @@
 <p align="left"> <img src="C:\Users\Femin\OneDrive\Desktop\resume"/> </p>
 
 - I'm skilled in **Excel, Power BI & SQL **
+  
+- All of my projects are available at **https://codebasics.io/portfolio/Femina-Muhammed-Ali-V**
 
 - How to reach me **feminamuhammedaliv@gmail.com**
 
